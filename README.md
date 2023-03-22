@@ -11,4 +11,3 @@
 
 ## confirm that the container was created via
 * docker ps
-# week7

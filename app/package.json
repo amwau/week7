@@ -1,0 +1,16 @@
+{
+  "name": "week7trial",
+  "version": "1.0.0",
+  "description": "* docker --version\r ## create an image from the dockerfile provided\r * docker build -t group1/app\r ## run the container via\r * docker run group1/app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
